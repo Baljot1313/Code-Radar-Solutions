@@ -6,8 +6,7 @@ char* welcome() {
 
 int main() {
     float a:
-    x=3.14;
     scantf("%f",&a);
-    printf("%.2f", x*a*a);
+    printf("%.2f", 3.14*a*a);
     return 0;
 }
