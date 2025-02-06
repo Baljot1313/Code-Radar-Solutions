@@ -5,9 +5,9 @@ char* welcome() {
 }
 
 int main() {
-    char a;
+    char a[100];
     int c;
-    char b;
+    char b[100];
     scanf("%s %d %s" , &a,&c,&b);
     printf("Name: %s/n",a);
     printf("Age: %d/n",c);
