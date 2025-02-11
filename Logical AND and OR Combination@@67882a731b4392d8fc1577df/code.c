@@ -6,13 +6,13 @@ int main(){
         printf("True", a);
 
         else if {
-            printf("False",b);
+            printf("False",a);
         }
     else if (b<0 && b=0 ){
         printf("True", b)
         {
             else if {
-                printf("False");
+                printf("False",b);
             }
         }
 
